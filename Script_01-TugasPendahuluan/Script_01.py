@@ -1,2 +1,2 @@
 #Script 01: Tugas Pendahuluan
-####################################Mulai tulis script nya disini
+#Di sini kalian nulis script nya ya, silakan
